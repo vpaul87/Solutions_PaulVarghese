@@ -5,5 +5,6 @@ using namespace std;
 int main()
 {
 	customer A;
+	cout<<A.get_customer_cost()<<endl;
 }
 
